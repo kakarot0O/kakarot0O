@@ -1,7 +1,7 @@
 **👋 Hi there, I am Kush Pandya**
 
 *  🌱 I’m currently preparing for my DEF CON talk!
-* 🔖 Current Research: MANA Checkpointing Processes in HPC using MPI Libraries 
+* 🔖 Current Research: Open source security :)
 * 🚀 I love all things security
 * 🦖 Reach me: k📫us📫hpcr📫8@gm📫ail📫.com (remove the '📫')
 * 👯 I’m looking to collaborate on a potential podcast
